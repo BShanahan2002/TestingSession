@@ -12,3 +12,6 @@
 <h3>Quality Objectives</h3>
 <h4>Primary Objectives:</h4>
 <p>A primary objective of testing is to assure that the final project meets the initial requirements set. Another part of this is to ensure that each requirements meets <b>all</b> use case scenarios</p>
+<h4>Secondary Objectives:</h4>
+<p>A secondary obejctive of testing is to identify all issues and/or potential risks and address them before official release. This will of course lead to detailed testing in order to achieve.</p>
+<h3>Test Approach</h3>
