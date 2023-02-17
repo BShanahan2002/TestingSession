@@ -1,1 +1,3 @@
 <h1 align='center'>Test Plan</h1>
+<h3>Introduction</h3>
+<p>The client is in need of a revision of their current site, one of the important aspects of recreating a site is to assess the issues with the current site and the causes. This will be achieved through testing. This test plan will go into detail explaining the various testing methodologies that will apply to the project. All types of testing will be explored(unit, integration and system) in sections: Scope, Quality Objectives, Test Approach, Roles and Responsibities, Entry and Exit Criteria, Test Strategy, Resource and Enviroment Needs and the Test Schedule</p>
