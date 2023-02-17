@@ -11,4 +11,4 @@
 </ul>
 <h3>Quality Objectives</h3>
 <h4>Primary Objectives:</h4>
-<p>A primary objective of testing is to assure that the final project meets the initial requirements set. Another part of this is to ensure that each requirements meets **all** use case scenarios</p>
+<p>A primary objective of testing is to assure that the final project meets the initial requirements set. Another part of this is to ensure that each requirements meets <b>all</b> use case scenarios</p>
